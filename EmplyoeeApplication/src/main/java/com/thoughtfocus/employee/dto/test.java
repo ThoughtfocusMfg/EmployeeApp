@@ -6,6 +6,4 @@ private String name;
 private String location;
 private long salary;
 private String email;
-
-private String venkayesh;
 }
